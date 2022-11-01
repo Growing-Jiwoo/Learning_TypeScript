@@ -16,3 +16,8 @@ function typeFunc_2(value) {
 }
 let jiwoo_info = ["jiwoo", true];
 let obj_example = { "name": "JiWoo", "age": "27" };
+let project_example = {
+    member: ['kim', 'park'],
+    days: 30,
+    started: true,
+};

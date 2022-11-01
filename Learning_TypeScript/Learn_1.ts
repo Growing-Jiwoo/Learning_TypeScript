@@ -36,3 +36,17 @@ type object_example = {
 }
 
 let obj_example :object_example = {"name" : "JiWoo", "age" : "27"}
+
+type project_type_example = {
+    member: string[],
+    days: number,
+    started: boolean
+}
+
+let project_example :project_type_example = {
+    member : ['kim', 'park'],
+    days : 30,
+    started : true,
+  }
+  
+
