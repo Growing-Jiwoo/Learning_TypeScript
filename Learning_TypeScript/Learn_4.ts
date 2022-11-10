@@ -98,4 +98,6 @@ class Car {
     }
   } 
 
+  console.log(math.plus(1,2))
+  console.log(math.minus(1,2))
   

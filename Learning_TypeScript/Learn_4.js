@@ -36,3 +36,5 @@ let math = {
         return a - b;
     }
 };
+console.log(math.plus(1, 2));
+console.log(math.minus(1, 2));
