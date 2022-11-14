@@ -13,3 +13,7 @@ Literal Types(String Literal Types, Number Literal Types, Template Literal Types
 ## day 04
 class 타입 지정   
 interface를 이용한 타입 지정
+
+## day 05
+Narrowing을 활용한 추가 학습   
+함수 Rest parameter, Destructuring 할 때 타입 지정하는 법 학습
