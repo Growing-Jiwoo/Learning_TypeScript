@@ -21,3 +21,6 @@ Narrowing을 활용한 추가 학습
 ## day 06
 import export 타입 지정하는 법 학습   
 타입을 파라미터로 입력하는 Generic 학습
+
+## day 07
+react에서 typescript 사용하기
